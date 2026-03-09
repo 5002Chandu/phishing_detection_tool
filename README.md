@@ -1,13 +1,13 @@
 
 # Phishing Website Detection Tool
 
-## 📌 Project Overview
+## Project Overview
 
 The **Phishing Website Detection Tool** is a simple web application developed to identify whether a given website URL is safe or potentially a phishing site. Phishing attacks are commonly used by attackers to steal sensitive information such as login credentials, banking details, and personal data by creating fake websites that look legitimate.
 
 This project analyzes different characteristics of a URL and determines if the website might be suspicious.
 
-## 🎯 Objective
+##  Objective
 
 The main objective of this project is to:
 
@@ -15,14 +15,14 @@ The main objective of this project is to:
 * Help users verify the safety of a URL before visiting it.
 * Understand basic cybersecurity concepts related to phishing attacks.
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 * **Python** – Backend logic
 * **Flask** – Web framework
 * **HTML** – Webpage structure
 * **CSS** – Styling and user interface
 
-## ⚙️ How the System Works
+##  How this system Works
 
 The tool checks several features of a URL, such as:
 
@@ -50,7 +50,7 @@ phishing_detection_tool
     └── style.css
 ```
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. Clone the repository
 2. Install required dependencies
@@ -70,13 +70,13 @@ Then open:
 http://127.0.0.1:5000
 ```
 
-## 🔍 Usage
+##  Usage
 
 1. Enter a website URL in the input field.
 2. Click the **Check Website** button.
 3. The system will display whether the website is **safe or suspicious**.
 
-## 📚 Learning Outcome
+##  Learning Outcomes
 
 This project helps in understanding:
 
@@ -85,7 +85,7 @@ This project helps in understanding:
 * Building a **web application using Flask**
 * Integrating frontend and backend development
 
-## ⭐ Conclusion
+## Conclusion
 
 Phishing attacks are one of the most common cybersecurity threats. This tool demonstrates a basic approach to detecting suspicious URLs and helps users become more aware of potential online threats.
 
